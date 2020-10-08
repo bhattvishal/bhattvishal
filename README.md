@@ -10,12 +10,20 @@
 
 <br />
 
-### 🔭 I’m currently working on
-### 🌱 I’m currently learning
-### 👯 I’m looking to collaborate on
-### 🤔 I’m looking for help with
-### 💬 Ask me about
-### ⚡ Fun Fact
+#### 🔭 I’m currently working on
+
+- Azure
+- ESP8266/ESP32
+
+#### 🌱 I’m currently learning
+
+- Machine Learning
+- Artificial Intelligence
+
+#### 👯 I’m looking to collaborate on
+#### 🤔 I’m looking for help with
+#### 💬 Ask me about
+#### ⚡ Fun Fact
 
 
 [website]: http://bhattvishal.github.io
