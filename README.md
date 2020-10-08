@@ -1,6 +1,6 @@
 ### Hi there, I'm [Vishal Bhatt][website] 👋
 
-### 📫 Connect with me:
+### 📫 Connect With Me:
 
 [<img align="left" alt="http://bhattvishal.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <!-- [<img align="left" alt="bhattvishal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
@@ -10,13 +10,16 @@
 
 <br />
 
+### 🔭 I’m currently working on
+### 🌱 I’m currently learning
+### 👯 I’m looking to collaborate on
+### 🤔 I’m looking for help with
+### 💬 Ask me about
+### ⚡ Fun Fact
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[website]: http://bhattvishal.github.io
+[twitter]: https://twitter.com/BhattVishal
+[youtube]: https://youtube.com/bhattvishal
+[instagram]: https://instagram.com/bhattvishal
+[linkedin]: https://www.linkedin.com/in/bhattvishal/
