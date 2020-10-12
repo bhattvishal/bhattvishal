@@ -1,3 +1,5 @@
+[<img align="left" width="100%" src="images/header.jpg" />]
+
 ### Hi there, I'm [Vishal Bhatt][website] 👋
 
 ### 📫 Connect With Me:
