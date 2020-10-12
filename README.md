@@ -1,13 +1,19 @@
-[<img align="left" width="100%" src="images/header.jpg" />]
+<img align="center" width="100%" src="images/header.jpg" />
+
+<br />
+<br />
 
 ### Hi there, I'm [Vishal Bhatt][website] 👋
 
 ### 📫 Connect With Me:
 
 [<img align="left" alt="http://bhattvishal.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 <!-- [<img align="left" alt="bhattvishal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+
 [<img align="left" alt="BhattVishal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="BhattVishal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <!-- [<img align="left" alt="_bhattvishal_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
@@ -26,15 +32,16 @@
 
 ##### 👯 I’m looking to collaborate on
 
-- Digitilization and Digital Transformation 
+- Digitilization and Digital Transformation
 - IoT Platform Projects
-- Enterprise Cloud Integration 
+- Enterprise Cloud Integration
 
 ##### 🤔 I’m looking for help with
+
 ##### 💬 Ask me about
 
 - IoT and Cloud Computing
-- Smart Home Projects 
+- Smart Home Projects
 - Gardening and DIY Projects
 
 ##### ⚡ Fun Fact
