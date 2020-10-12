@@ -12,19 +12,32 @@
 
 ##### 🔭 I’m currently working on
 
-- Azure
-- ESP8266/ESP32
+- Microsoft Azure
+- Embedded IoT Controllers (e.g. ESP8266/ESP32)
+- IoT and Cloud Platforms
 
 ##### 🌱 I’m currently learning
 
 - Machine Learning
 - Artificial Intelligence
+- Python
 
 ##### 👯 I’m looking to collaborate on
+
+- Digitilization and Digital Transformation 
+- IoT Platform Projects
+- Enterprise Cloud Integration 
+
 ##### 🤔 I’m looking for help with
 ##### 💬 Ask me about
+
+- IoT and Cloud Computing
+- Smart Home Projects 
+- Gardening and DIY Projects
+
 ##### ⚡ Fun Fact
 
+- I can cook very well
 
 [website]: http://bhattvishal.github.io
 [twitter]: https://twitter.com/BhattVishal
