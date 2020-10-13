@@ -1,7 +1,6 @@
 <img align="center" width="100%" src="images/header.jpg" />
 
 <br />
-<br />
 
 ### Hi there, I'm [Vishal Bhatt][website] 👋
 
