@@ -1,7 +1,5 @@
 <img align="center" width="100%" src="images/header.jpg" />
 
-<br />
-
 ### Hi there, I'm [Vishal Bhatt][website] 👋
 
 ### 📫 Connect With Me:
@@ -12,6 +10,7 @@
 
 [<img align="left" alt="BhattVishal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="BhattVishal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BhattVishal | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <!-- [<img align="left" alt="_bhattvishal_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
@@ -52,3 +51,4 @@
 [youtube]: https://youtube.com/bhattvishal
 [instagram]: https://instagram.com/bhattvishal
 [linkedin]: https://www.linkedin.com/in/bhattvishal/
+[stackoverflow]: https://stackoverflow.com/users/2516018/vishal-bhatt 
