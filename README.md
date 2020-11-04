@@ -28,6 +28,11 @@
 - Artificial Intelligence
 - Python
 
+##### 💬 I'm Certified
+
+- Microsoft Certified: Azure IoT Developer Speciality
+- ScrumMaster®
+
 ##### 👯 I’m looking to collaborate on
 
 - Digitilization and Digital Transformation
