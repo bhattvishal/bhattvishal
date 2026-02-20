@@ -18,15 +18,10 @@
 
 ##### 🔭 I’m currently working on
 
+- Data Science and AI
 - Microsoft Azure
 - Embedded IoT Controllers (e.g. ESP8266/ESP32)
 - IoT and Cloud Platforms
-
-##### 🌱 I’m currently learning
-
-- Machine Learning
-- Artificial Intelligence
-- Python
 
 ##### 💬 I'm Certified
 
