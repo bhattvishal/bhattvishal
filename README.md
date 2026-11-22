@@ -27,16 +27,6 @@ Since 2008 I've been architecting IoT and Cloud platforms that connect millions 
 
 <br />
 
-##### 🚀 Career changelog
-
-| Version | Role | Where | When |
-|:-:|---|---|---|
-| **v5** | System Architect — Data Science & AI | Eaton | current |
-| **v4** | Specialist Software Engineer — digital innovation & IoT/Cloud partnerships | Eaton India Innovation Centre | 2019 → |
-| **v3** | Lead Software Engineer — Cloud & IoT platform architecture | Eaton India Innovation Centre | 2015 — 2019 |
-| **v2** | Senior Software Engineer — Power Xpert Insight, CI/CD | Eaton India Engineering Centre | 2011 — 2015 |
-| **v1** | Software Engineer — Power Xpert device configuration tools | Eaton India Engineering Centre | 2008 — 2011 |
-
 ##### 🧠 Core competencies & specialties
 
 - **AI & Data Science:** Agentic AI, LLM fine-tuning, MLOps, Azure Machine Learning, AWS SageMaker
