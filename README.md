@@ -2,6 +2,15 @@
 
 ### Hi there, I'm [Vishal Bhatt][website] 👋
 
+> **Building what builds.**
+
+**System Architect — Data Science & AI · Embedded, IoT & Cloud** @ Eaton — Pune, India 🇮🇳
+<br/><sub>Software Specialist · Digital Innovator · .NET · IoT · Cloud · DevOps</sub>
+
+I love building things. I'm a system architect with 18+ years across embedded, IoT, cloud and AI, working at the intersection of AI, Embedded, Cloud, IoT and Cybersecurity. I bring deep expertise in Agentic AI, LLM fine-tuning, Edge Intelligence, Cloud platforms and IoT ecosystems — architecting scalable, secure, high-performance systems across industrial and enterprise domains, and bridging the gap between AI research and real-world deployment.
+
+Since 2008 I've been architecting IoT and Cloud platforms that connect millions of industrial devices, designing service tools for legacy protocols (CAN, MODBUS, PROFINET), and mentoring engineers from embedded, firmware and cloud backgrounds. I'm passionate about technology, teaching machines how to think, and helping organizations in their Digital Transformation journey.
+
 ### 📫 Connect With Me:
 
 [<img align="left" alt="http://bhattvishal.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -11,13 +20,58 @@
 [<img align="left" alt="BhattVishal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="BhattVishal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="BhattVishal | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="bhattvishal | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="bhattvishal | Hackster" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackster.svg" />][hackster]
 
 <!-- [<img align="left" alt="_bhattvishal_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
+##### 🚀 Career changelog
+
+| Version | Role | Where | When |
+|:-:|---|---|---|
+| **v5** | System Architect — Data Science & AI | Eaton | current |
+| **v4** | Specialist Software Engineer — digital innovation & IoT/Cloud partnerships | Eaton India Innovation Centre | 2019 → |
+| **v3** | Lead Software Engineer — Cloud & IoT platform architecture | Eaton India Innovation Centre | 2015 — 2019 |
+| **v2** | Senior Software Engineer — Power Xpert Insight, CI/CD | Eaton India Engineering Centre | 2011 — 2015 |
+| **v1** | Software Engineer — Power Xpert device configuration tools | Eaton India Engineering Centre | 2008 — 2011 |
+
+##### 🧠 Core competencies & specialties
+
+- **AI & Data Science:** Agentic AI, LLM fine-tuning, MLOps, Azure Machine Learning, AWS SageMaker
+- **Edge & IoT:** Edge AI, Digital Twins, Industry 4.0, Embedded Intelligence, OTA updates
+- **Architecture & Design:** Microservices, Event-driven systems, Design patterns (MVVM, MVC), Distributed systems
+- **Cloud & DevOps:** Microsoft Azure, Azure DevOps, Git, Jenkins, Atlassian toolset
+- **Data Engineering:** Apache Flink, Kafka, Azure Data Factory, CosmosDB, ADX, Hadoop
+- **Programming:** Python, C#, Java, .NET, REST APIs, Node.js
+- **System Integration:** Message queuing, Distributed logging, Real-time stream processing
+
+##### 🛠️ Tech stack
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20IoT%20%26%20Edge-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP8266%20%2F%20ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SageMaker](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white)
+
+Microservices · WPF/WCF · CAN · MODBUS · PROFINET · Scaled Agile · DevOps
+
 ##### 🔭 I’m currently working on
 
+- Agentic AI and LLM fine-tuning
+- Edge Intelligence and Digital Twins
 - Data Science and AI
 - Microsoft Azure
 - Embedded IoT Controllers (e.g. ESP8266/ESP32)
@@ -28,11 +82,25 @@
 - Microsoft Certified: Azure IoT Developer Speciality
 - ScrumMaster®
 
+##### 💡 Innovation
+
+- 1 Patent · 1 Trade Secret · 8 Invention Disclosures · 2 Publications
+
+##### 🎓 Education
+
+- M.Tech, Computer Science and Engineering — Maulana Azad National Institute of Technology (MANIT / NIT), Bhopal (2006–2008)
+- B.E., Computer Science and Engineering — University of Technology, Bhopal (2002–2006)
+
 ##### 👯 I’m looking to collaborate on
 
-- Digitilization and Digital Transformation
+- AI in industrial & embedded systems
+- Digitalization and Digital Transformation
 - IoT Platform Projects
 - Enterprise Cloud Integration
+
+##### 🤝 Open to volunteer for
+
+- Science and Technology
 
 ##### 🤔 I’m looking for help with
 
@@ -51,4 +119,6 @@
 [youtube]: https://youtube.com/bhattvishal
 [instagram]: https://instagram.com/bhattvishal
 [linkedin]: https://www.linkedin.com/in/bhattvishal/
-[stackoverflow]: https://stackoverflow.com/users/2516018/vishal-bhatt 
+[stackoverflow]: https://stackoverflow.com/users/2516018/vishal-bhatt
+[medium]: https://medium.com/@bhattvishal
+[hackster]: https://www.hackster.io/bhattvishal
